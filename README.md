@@ -4,8 +4,8 @@
 
 👨🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 🎓 Currently studying Computer Science at the National Polytechnic School of Oran Maurice Audin<br/>
-📫 shoot me an email at **abdessamed630@gmail.com**
-💭 Currently learning about **React.js**
+📫 shoot me an email at **abdessamed630@gmail.com**<br/>
+💭 Currently learning about **React.js**<br/>
 
 ---
 
