@@ -67,4 +67,4 @@
 
 ### 📊 Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-abdou&" alt="louai-zokerburg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-abdou&" alt="its-abdou" /></p>
